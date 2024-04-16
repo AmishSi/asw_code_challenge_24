@@ -1,0 +1,8 @@
+- What changes you would make to this interfaces for use in an RTOS
+environment?
+Using an RTOS for tasks, mutex, interrupts, setting priority, etc. can be done.
+Timeout can be used if blocking API used
+
+- How might the I2C API be improved
+I2C API needs to be modified as per the datasheet to read and according to the sequence given in the datasheet. 
+I didn't modify it. I can modify it if asked for.
